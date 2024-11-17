@@ -1,0 +1,40 @@
+.game{
+	width:500px;
+	height:730px;
+	border:2px solid #e1e1e1;
+	position:absolute;
+}
+.sky{
+	background-image:url('https://th.bing.com/th/id/R.f52958c1baeb5ca6dca0070577cccbe8?rik=iAA0AmWoy6VfZw&riu=http%3a%2f%2fpixeljoint.com%2ffiles%2ficons%2ffull%2fsave3.png&ehk=tblFCH9u02UU%2bjNvd%2bD7alzmUAy9kP%2fGCc2pAWT9MKY%3d&risl=&pid=ImgRaw&r=0');
+	background-size:cover;
+	background-repeat:no-repeat;
+	width:500px;
+	height:580px;
+	position:absolute;
+}
+.ground{
+	background-image:url('https://www.pngkit.com/png/full/34-345857_ground-tints-and-shades.png');
+	background-size:cover;
+	background-repeat:no-repeat;
+	width:500px;
+	height:120px;
+	top:580px;
+	position:absolute;
+	z-index:5;
+}
+.bird{
+	background-image:url('https://th.bing.com/th/id/OIP.U3xmyehGgwk8T-qZn3GT3QHaEK?rs=1&pid=ImgDetMain');
+	background-size:cover;
+	background-repeat:no-repeat;
+	width:60px;
+	height:45px;
+	position:absolute;
+}
+.block{
+	background-image:url('https://th.bing.com/th/id/OIP.4e8FWX2dCf73FWBsE5UftgHaN-?rs=1&pid=ImgDetMain');
+	background-size:cover;
+	background-repeat:no-repeat;
+	width:60px;
+	height:300px;
+	position:absolute;
+}
